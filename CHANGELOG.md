@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`10f021c`](https://github.com/stdlib-js/stdlib/commit/10f021cc611f590a73d6e5fd8d7a17ec5351480f) - **docs:** fix example and description [(#14168)](https://github.com/stdlib-js/stdlib/pull/14168) _(by Philipp Burckhardt)_
 -   [`e45106f`](https://github.com/stdlib-js/stdlib/commit/e45106f37b6021036f74a084df5b76efb7326c60) - **feat:** add C implementation for `stats/base/ndarray/dnanmean` [(#14049)](https://github.com/stdlib-js/stdlib/pull/14049) _(by Ujjwal Verma, Athan Reines)_
 -   [`0f24d0d`](https://github.com/stdlib-js/stdlib/commit/0f24d0d9f742c471f083ad6c00df814e05053d12) - **docs:** update descriptions and comments [(#13451)](https://github.com/stdlib-js/stdlib/pull/13451) _(by Philipp Burckhardt)_
 -   [`46ec186`](https://github.com/stdlib-js/stdlib/commit/46ec186fcbd6df60f64a58f504b661a63bc5cd47) - **docs:** update description _(by Athan Reines)_
