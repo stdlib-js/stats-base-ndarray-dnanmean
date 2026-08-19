@@ -1,0 +1,117 @@
+# CHANGELOG
+
+> Package changelog.
+
+<section class="release" id="unreleased">
+
+## Unreleased (2026-08-19)
+
+<section class="features">
+
+### Features
+
+-   [`e45106f`](https://github.com/stdlib-js/stdlib/commit/e45106f37b6021036f74a084df5b76efb7326c60) - add C implementation for `stats/base/ndarray/dnanmean` [(#14049)](https://github.com/stdlib-js/stdlib/pull/14049)
+
+</section>
+
+<!-- /.features -->
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`82ee27d`](https://github.com/stdlib-js/stdlib/commit/82ee27d7a9610ee0f83b9893f613de4b3e11b6e6) - **bench:** generate arrays with `NaN` values [(#14402)](https://github.com/stdlib-js/stdlib/pull/14402) _(by Ujjwal Verma)_
+-   [`bcff88e`](https://github.com/stdlib-js/stdlib/commit/bcff88e9f8cb2f0b8124d94ab810d7e2eee7a948) - **docs:** update Markdown equation elements _(by stdlib-bot)_
+-   [`10f021c`](https://github.com/stdlib-js/stdlib/commit/10f021cc611f590a73d6e5fd8d7a17ec5351480f) - **docs:** fix example and description [(#14168)](https://github.com/stdlib-js/stdlib/pull/14168) _(by Philipp Burckhardt)_
+-   [`e45106f`](https://github.com/stdlib-js/stdlib/commit/e45106f37b6021036f74a084df5b76efb7326c60) - **feat:** add C implementation for `stats/base/ndarray/dnanmean` [(#14049)](https://github.com/stdlib-js/stdlib/pull/14049) _(by Ujjwal Verma, Athan Reines)_
+-   [`0f24d0d`](https://github.com/stdlib-js/stdlib/commit/0f24d0d9f742c471f083ad6c00df814e05053d12) - **docs:** update descriptions and comments [(#13451)](https://github.com/stdlib-js/stdlib/pull/13451) _(by Philipp Burckhardt)_
+-   [`46ec186`](https://github.com/stdlib-js/stdlib/commit/46ec186fcbd6df60f64a58f504b661a63bc5cd47) - **docs:** update description _(by Athan Reines)_
+-   [`efb8640`](https://github.com/stdlib-js/stdlib/commit/efb8640d97dfffd8897418dcea2e4df1481ca6fc) - **chore:** modernize examples and benchmarks _(by Athan Reines)_
+-   [`9a51841`](https://github.com/stdlib-js/stdlib/commit/9a51841213eb13adbd6b8fe36d96c00aac9fbb17) - **bench:** refactor to use string interpolation in `stats/base` [(#11393)](https://github.com/stdlib-js/stdlib/pull/11393) _(by Karan Anand)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 4 people contributed to this release. Thank you to the following contributors:
+
+-   Athan Reines
+-   Karan Anand
+-   Philipp Burckhardt
+-   Ujjwal Verma
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
+<section class="release" id="v0.1.1">
+
+## 0.1.1 (2026-02-08)
+
+No changes reported for this release.
+
+</section>
+
+<!-- /.release -->
+
+<section class="release" id="v0.1.0">
+
+## 0.1.0 (2026-01-31)
+
+<section class="features">
+
+### Features
+
+-   [`ceaf138`](https://github.com/stdlib-js/stdlib/commit/ceaf138672e744c0d9af8373085c7eec0da521ee) - add `stats/base/ndarray/dnanmean` [(#7965)](https://github.com/stdlib-js/stdlib/pull/7965)
+
+</section>
+
+<!-- /.features -->
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`2035f34`](https://github.com/stdlib-js/stdlib/commit/2035f344a1a469278042b7532f034dc6119933b3) - **docs:** add function documentation _(by Athan Reines)_
+-   [`347914d`](https://github.com/stdlib-js/stdlib/commit/347914dc5de466218b40f73e5302d8439f7ba20f) - **test:** update descriptions _(by Athan Reines)_
+-   [`167bba8`](https://github.com/stdlib-js/stdlib/commit/167bba841858a37cf5ca350365cf6a00980f17fb) - **chore:** fix keywords _(by Athan Reines)_
+-   [`b33ec59`](https://github.com/stdlib-js/stdlib/commit/b33ec59f183293ed7a357db25b00e9fae40337ae) - **docs:** fix hyphenation _(by Athan Reines)_
+-   [`ceaf138`](https://github.com/stdlib-js/stdlib/commit/ceaf138672e744c0d9af8373085c7eec0da521ee) - **feat:** add `stats/base/ndarray/dnanmean` [(#7965)](https://github.com/stdlib-js/stdlib/pull/7965) _(by Gururaj Gurram)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 2 people contributed to this release. Thank you to the following contributors:
+
+-   Athan Reines
+-   Gururaj Gurram
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
